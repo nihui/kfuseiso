@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Mount ISO image files
+Name[zh_CN]=挂载 ISO 镜像文件
+Exec=kfuseisomount -caption "%c" %i %m %u
+Comment=Mount ISO images
+Comment[zh_CN]=挂载 ISO 镜像
+Icon=application-x-cd-image
+MimeTypes=application/x-iso-image
+Categories=Application;Utility;
+Terminal=false

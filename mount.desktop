@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Comment=
+Exec=kfuseisomount
+GenericName=
+Icon=list-add
+MimeType=
+Name=Mount ISO image file
+Name[zh_CN]=挂载 ISO 镜像文件
+StartupNotify=true
+Terminal=false
+Type=Application
+X-KDE-SubstituteUID=false

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Service
+Name=Mount ISO Image Files
+Name[zh_CN]=挂载 ISO 镜像文件
+X-KDE-Library=libiso_image_plugin
+ServiceTypes=KonqPopupMenu/Plugin,application/octet-stream,inode/directory

@@ -1,0 +1,18 @@
+[Protocol]
+exec=kio_isomedia
+protocol=isomedia
+input=none
+output=filesystem
+reading=true
+writing=false
+makedir=false
+deleting=false
+linking=false
+moving=false
+listing=Name,Type
+defaultMimetype=application/octet-stream
+Description=A kioslave to list all currently mounted iso images
+Description[zh_CN]=一个列出目前已挂载的全部 iso 镜像的 kioslave
+Icon=cdrom_unmount
+Class=:local
+Parent=system:/
